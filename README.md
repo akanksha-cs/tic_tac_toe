@@ -1,7 +1,7 @@
 # Tic Tac Toe
 Play a game of Tic Tac Toe against the computer.
 
-Demo link: 
+Demo link: https://akanksha-cs.github.io/tic_tac_toe/
 
 Built using HTML, CSS, JavaScript, and JQuery.
 
