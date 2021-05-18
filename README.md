@@ -1,7 +1,7 @@
 # Tic Tac Toe
 Play a game of Tic Tac Toe against the computer.
 
-Demo link: [https://bethqiang.github.io/tic-tac-toe](https://bethqiang.github.io/tic-tac-toe)
+Demo link: 
 
 Built using HTML, CSS, JavaScript, and JQuery.
 
@@ -15,5 +15,3 @@ Future ideas include:
 * Adhere to standard Tic Tac Toe rules and always have X go first, whomever X may be.
 * Create unbeatable AI using Wikipedia's strategy.
 * Implement Minimax algorithm for AI logic.
-
-Original project idea link: [https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game)
